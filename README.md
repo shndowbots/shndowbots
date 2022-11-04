@@ -1,1 +1,1 @@
-![Metrics](https://github.com/shndowbots/shndowbots/blob/master/github-metrics.svg)
+https://github.com/shndowbots/shndowbots/blob/main/github-metrics.svg
