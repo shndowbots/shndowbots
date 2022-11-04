@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: LewisTehMinerz
+          user: shndowbots
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
