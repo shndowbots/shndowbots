@@ -2297,7 +2297,7 @@
                                         <span>starred 29 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">In-Database Machine Learning</div>
+                                <div class="field description">An emerging platform to help developers build #AI solutions</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2570,7 +2570,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Mar 2023, 16:30:51 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 2 Mar 2023, 17:20:39 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
